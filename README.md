@@ -3,9 +3,9 @@ fun for sort your mass on C
 
 # SYNOPSIS
 ```code
-#include "BASE.H"<br>
-#include "SORTS.H"<br>
-int sort(void *mass,int size,int sortChoice,int creverse,int elemsize,int(comp)(void * , void * ))<br>
+#include "BASE.H"
+#include "SORTS.H"
+int sort(void *mass,int size,int sortChoice,int creverse,int elemsize,int(comp)(void * , void * ))
 ```
 # DESCRIPTION
 The sort() sorts any type of mass.<br>
